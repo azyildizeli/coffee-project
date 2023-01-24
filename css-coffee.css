@@ -1,0 +1,102 @@
+header {
+  background-image: url(coffee1.jpeg);
+  background-size: cover;
+  padding-bottom: 20px;
+}
+body {
+  background-color: #fff8ea;
+}
+#logo {
+  width: 25%;
+}
+h1 {
+  color: #594545;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+h2 {
+  color: #815b5b;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+h3 {
+  color: #9e7676;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+#about-us {
+  padding-bottom: 80px;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  color: #594545;
+}
+#flag {
+  width: 20px;
+}
+#stores-tables {
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 50px;
+}
+#numbers-body {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+}
+#stores-tables-heading {
+  text-align: center;
+}
+
+#form {
+  color: #9e7676;
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  padding-bottom: 100px;
+}
+
+#home-p {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  letter-spacing: -1px;
+  word-spacing: 2px;
+  font-weight: 700;
+  text-decoration: none solid rgb(68, 68, 68);
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  color: #594545;
+}
